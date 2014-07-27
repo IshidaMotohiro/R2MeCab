@@ -1,0 +1,11 @@
+Package: R2MeCab
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2014-05-20
+Author: Motohiro ISHIDA
+Maintainer: Motohiro ISHIDA <ishida-m@ias.tokushima-u.ac.jp>
+Description: More about what it does (maybe more than one line)
+License: What Licence is it under ?
+Imports: Rcpp (>= 0.11.1)
+LinkingTo: Rcpp
